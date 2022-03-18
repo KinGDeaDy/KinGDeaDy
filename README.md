@@ -16,7 +16,7 @@
 
 I am a Sofware Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
 - 🔭 I’m a RTU MIREA student 
-- 🌱 Specialty development:of secure software
+- 🌱 Specialty: development of secure software
 - ⚡ In my free time I improve my coding skills
 ---
 
