@@ -6,6 +6,7 @@
   <a href="https://vk.com/kingdeady">
     <img src="https://img.shields.io/badge/kingdeady-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge">  
   </a>
+  <br>
    <img src="https://komarev.com/ghpvc/?username=kingdeady&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center"></h1>
