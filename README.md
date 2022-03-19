@@ -17,7 +17,7 @@
 ### :woman_technologist: &nbsp;About Me :
 
 I am a Sofware Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
-- 🔭 I’m a RTU MIREA student 
+- 🔭 I’m a RTU MIREA student Institute of Cybersecurity and Digital Technologies
 - 🌱 Specialty: development of secure software
 - ⚡ In my free time I improve my coding skills
 ---
