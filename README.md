@@ -20,6 +20,19 @@ I am a Sofware Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - 🔭 I’m a RTU MIREA student Institute of Cybersecurity and Digital Technologies
 - 🌱 Specialty: development of secure software
 - ⚡ In my free time I improve my coding skills
+- ---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="csharp" alt="csharp" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="csharp" alt="csharp" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="csharp" alt="csharp" width="60" height="60"/>&nbsp;
+  <img src="https://mitmproxy.org/logo-navbar.png" title="csharp" alt="csharp" width="200" height="50"/>&nbsp;
+  
+</div>
+
 ---
 
 ### :fire: My Stats :
