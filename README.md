@@ -19,7 +19,7 @@
 I am a Sofware Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
 - 🔭 I’m a RTU MIREA student Institute of Cybersecurity and Digital Technologies
 - 🌱 Specialty: development of secure software
-- ⚡ In my free time I learn ML
+- ⚡ In my free time I learn Python
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
