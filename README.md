@@ -6,6 +6,9 @@
   <a href="https://vk.com/kingdeady">
     <img src="https://img.shields.io/badge/kingdeady-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge">  
   </a>
+  <a href="https://www.linkedin.com/in/kingdeady/">
+    <img src="https://img.shields.io/badge/Artem Ivashin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge">  
+  </a>
   <br>
    <img src="https://komarev.com/ghpvc/?username=kingdeady&style=flat-square&color=blue" alt=""/>
 </div>
@@ -26,9 +29,11 @@ I am a Sofware Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="dot-net" alt="dot-net" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://mitmproxy.org/logo-navbar.png" title="mitm" alt="mitm" width="200" height="50"/>&nbsp;
   
